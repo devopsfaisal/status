@@ -1,31 +1,37 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Upptime Configuration for Faisal Ansari
+owner: devopsfaisal
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Faisal Ansari Portfolio
+    url: https://faisal.host
+    icon: https://faisal.host/assets/favicon.ico
+  - name: Faisal Tech Notes & Docs
+    url: https://notes.faisal.host
+  - name: Faisal Engineering Blog
+    url: https://blog.faisal.host
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.faisal.host
+  name: "Faisal Ansari Infrastructure Status"
+  introTitle: "**Faisal Ansari** Systems & Cloud Infrastructure Status"
+  introMessage: "Real-time monitoring, response times, and incident reports for Faisal Ansari's production workloads, portfolio, and cloud architectures."
   navbar:
-    - title: Status
-      href: /
+    - title: Portfolio
+      href: https://faisal.host
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/devopsfaisal
+    - title: Topmate 1:1 Mentorship
+      href: https://topmate.io/faisal_ansari
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - devopsfaisal
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
