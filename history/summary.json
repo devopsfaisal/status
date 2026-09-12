@@ -5,18 +5,18 @@
     "icon": "https://faisal.host/assets/favicon.ico",
     "slug": "faisal-ansari-portfolio",
     "status": "down",
-    "uptime": "24.29%",
-    "uptimeDay": "24.29%",
-    "uptimeWeek": "24.29%",
-    "uptimeMonth": "24.29%",
-    "uptimeYear": "24.29%",
-    "time": 1610,
-    "timeDay": 1610,
-    "timeWeek": 1610,
-    "timeMonth": 1610,
-    "timeYear": 1610,
+    "uptime": "1.40%",
+    "uptimeDay": "1.40%",
+    "uptimeWeek": "1.40%",
+    "uptimeMonth": "1.40%",
+    "uptimeYear": "1.40%",
+    "time": 1475,
+    "timeDay": 1475,
+    "timeWeek": 1475,
+    "timeMonth": 1475,
+    "timeYear": 1475,
     "dailyMinutesDown": {
-      "2026-09-12": 1
+      "2026-09-12": 21
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.faisal.host.ico",
     "slug": "faisal-tech-notes-and-docs",
     "status": "down",
-    "uptime": "41.20%",
-    "uptimeDay": "41.20%",
-    "uptimeWeek": "41.20%",
-    "uptimeMonth": "41.20%",
-    "uptimeYear": "41.20%",
+    "uptime": "1.69%",
+    "uptimeDay": "1.69%",
+    "uptimeWeek": "1.69%",
+    "uptimeMonth": "1.69%",
+    "uptimeYear": "1.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-12": 1
+      "2026-09-12": 21
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.faisal.host.ico",
     "slug": "faisal-engineering-blog",
     "status": "down",
-    "uptime": "70.17%",
-    "uptimeDay": "70.17%",
-    "uptimeWeek": "70.17%",
-    "uptimeMonth": "70.17%",
-    "uptimeYear": "70.17%",
+    "uptime": "1.76%",
+    "uptimeDay": "1.76%",
+    "uptimeWeek": "1.76%",
+    "uptimeMonth": "1.76%",
+    "uptimeYear": "1.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-12": 0
+      "2026-09-12": 20
     }
   }
 ]
