@@ -50,12 +50,7 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ github.token }}
-      - name: Update template
-        uses: upptime/uptime-monitor@v1.44.0
-        with:
-          command: "update-template"
-        env:
-          GH_PAT: ${{ github.token }}
+      # Skipped Update template to avoid workflow permission restriction
       - name: Update response time
         uses: upptime/uptime-monitor@v1.44.0
         with:
