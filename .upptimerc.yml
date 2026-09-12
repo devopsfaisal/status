@@ -13,6 +13,7 @@ sites:
 
 status-website:
   cname: status.faisal.host
+  logoUrl: https://faisal.host/assets/favicon.svg
   name: "Faisal Ansari Infrastructure Status"
   introTitle: "**Faisal Ansari** Systems & Cloud Infrastructure Status"
   introMessage: "Real-time monitoring, response times, and incident reports for Faisal Ansari's production workloads, portfolio, and cloud architectures."
