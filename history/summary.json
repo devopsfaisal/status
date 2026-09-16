@@ -5,16 +5,16 @@
     "icon": "https://faisal.host/assets/favicon.ico",
     "slug": "faisal-ansari-portfolio",
     "status": "up",
-    "uptime": "70.29%",
+    "uptime": "78.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.29%",
-    "uptimeMonth": "70.29%",
-    "uptimeYear": "70.29%",
-    "time": 1193,
-    "timeDay": 794,
-    "timeWeek": 1193,
-    "timeMonth": 1193,
-    "timeYear": 1193,
+    "uptimeWeek": "78.33%",
+    "uptimeMonth": "78.33%",
+    "uptimeYear": "78.33%",
+    "time": 1143,
+    "timeDay": 796,
+    "timeWeek": 1143,
+    "timeMonth": 1143,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2026-09-13": 288,
       "2026-09-12": 859
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-15": 119,
+      "2026-09-16": 110,
+      "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 858
@@ -60,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-15": 119,
+      "2026-09-16": 110,
+      "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 858
